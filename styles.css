@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap');
+
+table,
+td,
+tr,
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2%;
+    text-align: center;
+}
+
+.titolo {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 1%;
+    text-align: center;
+    font-size: larger;
+    border-radius: 17%;
+    margin: auto;
+    width: 50%;
+}
+
+.divCentrale {
+    padding: 1%;
+    font-size: large;
+    width: 50%;
+    margin: auto;
+}
+
+body {
+    background-color: rgb(226, 226, 226);
+    text-align: center;
+    font-family: "Parkinsans", sans-serif
+}
+
+button {
+    font-size: large;
+}
